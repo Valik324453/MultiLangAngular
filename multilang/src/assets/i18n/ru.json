@@ -1,0 +1,14 @@
+{
+    "contact-page":{
+        "site-name": "Contact page"
+    },
+    "home":{
+        "site-name": "Мультиязычное приложение"
+
+    },
+    "shared":{
+        "cancel": "Cancel",
+        "submit": "Submit"
+
+    }
+}
